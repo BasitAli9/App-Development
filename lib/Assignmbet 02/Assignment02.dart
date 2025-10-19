@@ -21,8 +21,6 @@ class TravelGuideApp extends StatelessWidget {
 }
 
 
-
-
 class TravelHome extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
