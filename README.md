@@ -1,18 +1,32 @@
-# demoflutter
+# App-Development 🧑‍💻
 
-A new Flutter project.
+This repository contains the coursework for the Mobile Application Development course at Riphah International University. 
+It is a Flutter-based project (with some Android folder as well) and includes source code, assets, tests, and configuration files.
 
-## Getting Started
+## Repository Structure
+```
+App-Development/
+│
+├── android/
+│
+├── assets/
+│   └── images/
+│
+├── lib/
+│    └── Assignment01/
+│    └── Assignment02/
+│    └── Quiz01/
+│
+├── test/
+│
+├── .gitignore
+├── README.md
+├── analysis_options.yaml
+├── pubspec.yaml
+└── pubspec.lock
+```
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Bye
+## Author
+- Basit Ali
+- Mobile Application Developmnet
+- BSCS - Riphah International University
